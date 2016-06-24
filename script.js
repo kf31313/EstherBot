@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('您好！我是"奇哥"，在開始和我聊 Chih-Ke 前，請先報上名來！')
+            return bot.say('您好！我是"奇哥"，在開始和我聊 Chih-Ke 前，想請問怎麼稱呼您呢？')
                 .then(() => 'speak');
         }
     },
@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`我不懂您的意思！請您說清楚一點。`).then(() => 'speak');
+                    return bot.say(`我不懂您的意思！您是指？`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
