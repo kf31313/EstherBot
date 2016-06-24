@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I didn't understand that.`).then(() => 'speak');
+                    return bot.say(`我不懂您的意思！請您說清楚一點。`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
