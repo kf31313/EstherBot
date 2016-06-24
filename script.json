@@ -4,10 +4,10 @@
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "pearl": "你就是 Chih-Ke 的老婆呀！聽說長得很像胖版昆凌呦。\n![kf31313](https://raw.githubusercontent.com/kf31313/EstherBot/master/img/hannapearl.jpg)\n你一定覺得我在工三小！ %[我比昆凌漂亮](postback:facebook)",
-    "PEARL": "你就是 Chih-Ke 的老婆呀！聽說長得很像胖版昆凌呦。\n![kf31313](https://raw.githubusercontent.com/kf31313/EstherBot/master/img/hannapearl.jpg)\n你一定覺得我在工三小！ %[我比昆凌漂亮](postback:facebook)"",
-    "姵妤": "你就是 Chih-Ke 的老婆呀！聽說長得很像胖版昆凌呦。\n![kf31313](https://raw.githubusercontent.com/kf31313/EstherBot/master/img/hannapearl.jpg)\n你一定覺得我在工三小！ %[我比昆凌漂亮](postback:facebook)"",
-    "陳姵妤": "你就是 Chih-Ke 的老婆呀！聽說長得很像胖版昆凌呦。\n![kf31313](https://raw.githubusercontent.com/kf31313/EstherBot/master/img/hannapearl.jpg)\n你一定覺得我在工三小！ %[我比昆凌漂亮](postback:facebook)"",
-    "我比昆凌漂亮": "我看你是想太多了吧...自己去看看 %[親眼看看](https://www.facebook.com/HannahIFC)\n我就不多說了。", 
+    "PEARL": "你就是 Chih-Ke 的老婆呀！聽說長得很像胖版昆凌呦。\n![kf31313](https://raw.githubusercontent.com/kf31313/EstherBot/master/img/hannapearl.jpg)\n你一定覺得我在工三小！ %[我比昆凌漂亮](postback:facebook)",
+    "姵妤": "你就是 Chih-Ke 的老婆呀！聽說長得很像胖版昆凌呦。\n![kf31313](https://raw.githubusercontent.com/kf31313/EstherBot/master/img/hannapearl.jpg)\n你一定覺得我在工三小！ %[我比昆凌漂亮](postback:facebook)",
+    "陳姵妤": "你就是 Chih-Ke 的老婆呀！聽說長得很像胖版昆凌呦。\n![kf31313](https://raw.githubusercontent.com/kf31313/EstherBot/master/img/hannapearl.jpg)\n你一定覺得我在工三小！ %[我比昆凌漂亮](postback:facebook)",
+    "我比昆凌漂亮": "我看你是想太多了吧...自己去看看 %[親眼看看](https://www.facebook.com/HannahIFC)", 
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
