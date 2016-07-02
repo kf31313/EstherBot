@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('您好，我是"奇哥"，Chih-Ke 的專屬機器人!在開始和我聊 Chih-Ke 前，想請問怎麼稱呼您呢？')
+            return bot.say('Hello，我是『奇哥』，ChihKe 的專屬機器人! 準備好與我聊聊 ChihKe 了嗎? %[Start](postback:hello)')
                 .then(() => 'speak');
         }
     },
