@@ -3,7 +3,7 @@
     "我比昆凌漂亮": "我看你是想太多了吧...自己去看看 %[親眼看看](https://www.facebook.com/HannahIFC)",
     "您好": "您好!非常感謝您撥空與我聯繫。\n![kf31313](https://raw.githubusercontent.com/kf31313/EstherBot/master/img/profilepic.jpg)\n讓我們來多聊聊ChihKe吧! %[請你簡單介紹一下ChihKe](postback:intro) %[我想直接與ChihKe聯絡](postback:email)",
     "請你簡單介紹一下ChihKe": "ChihKe 今年25歲，東吳大學企管系學士。畢業後於替代役訓練中心服役，擔任少尉區隊長一職。退役後至美國加州大學爾灣校區進修 PM 學程。曾於美國加州的 MSC Software 擔任 PM 實習生。回國後與夥伴創業，成立 PawsVilla 寵物保母平台。\n希望加入充滿熱情、活力、創造力的公司，與公司一同努力成長! %[請問ChihKe有什麼優點與缺點?](postback:intro) %[我想直接與ChihKe聯絡](postback:email)",
-    "我想直接與ChihKe聯絡": "手機: 0972-125616 \nEmail: chihke.fang@gmail.com %[寄信與ChihKe約時間面試](mailto:chihke.fang@gmail.com) ",
+    "我想直接與ChihKe聯絡": "手機: 0972-125616 \nEmail: chihke.fang@gmail.com \n%[寄信與ChihKe約時間面試](mailto:chihke.fang@gmail.com) ",
     "請問ChihKe有什麼優點與缺點?": "ChihKe 是個非常喜歡團隊合作的人，擁有良好的溝通交涉能力，時常擔任團隊的領導者。初次見面可能看似冷淡、嚴肅，其實是個冷面笑匠、開心果。實戰經驗與專業技能比較不足，卻很喜歡利用時間上網學習或與朋友討教，把自己當大海綿，不斷吸收來自各方面的資訊。最重要的是他永遠保有年輕的心，這樣才能永遠站在時代的浪頭，跟著前進!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
