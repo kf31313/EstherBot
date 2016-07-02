@@ -10,7 +10,7 @@
     "工作外的興趣?": "ChihKe 最愛的就是音樂跟運動! 常常去看樂團表演、在家 cover 歌曲。運動則是看比賽的時間多於親自動的時間...\n還想了解關於ChihKe的什麼問題呢? %[優點與缺點?](postback:intro)  %[希望的工作內容?](postback:intro) %[工作外的興趣?](postback:intro) \n %[未來的規劃?](postback:intro) %[為什麼要製作奇哥?](postback:intro) %[我還有其他問題想知道!](postback:intro) %[我想直接與他聯絡](postback:email)",
     "未來的規劃?": "ChihKe 覺得未來充滿著無限的可能! 短期目標是盡量充實自己的軟、硬實力，拓展人脈並且接觸不同領域的人事物。長期目標是成為能讓公司、同事、親友依賴的好夥伴!\n還想了解關於ChihKe的什麼問題呢? %[優點與缺點?](postback:intro)  %[希望的工作內容?](postback:intro) %[工作外的興趣?](postback:intro) \n %[未來的規劃?](postback:intro) %[為什麼要製作奇哥?](postback:intro) %[我還有其他問題想知道!](postback:intro) %[我想直接與他聯絡](postback:email)",
     "為什麼要製作奇哥?": "ChihKe 某天在網路上看到國外網友的文章，認為找工作就如同交友一樣，一開始雙方都需要認識彼此。但又必須要花很多時間向不同對象敘述同樣的故事，因此決定開發機器人代勞!\n還想了解關於ChihKe的什麼問題呢? %[優點與缺點?](postback:intro)  %[希望的工作內容?](postback:intro) %[工作外的興趣?](postback:intro) \n %[未來的規劃?](postback:intro) %[為什麼要製作奇哥?](postback:intro) %[我還有其他問題想知道!](postback:intro) %[我想直接與他聯絡](postback:email)",
-    "我還有其他問題想知道!": "還在等什麼! 直接與ChihKe聯繫碰面吧:) \n%[寄信相約碰面](mailto:chihke.fang@gmail.com) \n![kf31313](https://raw.githubusercontent.com/kf31313/EstherBot/master/img/thanks.png) ",
+    "我還有其他問題想知道!": "還在等什麼! 直接與ChihKe聯繫碰面吧:) \n%[寄信相約碰面](mailto:chihke.fang@gmail.com) ",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
