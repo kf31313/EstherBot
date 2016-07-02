@@ -1,0 +1,7 @@
+<?php
+// the message
+$msg = "公司：\n時間：\n職位：";
+
+// send email
+mail("chihke.fang@gmail.com","ChihKe 面試通知",$msg);
+?>
