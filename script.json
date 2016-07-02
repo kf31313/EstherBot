@@ -1,7 +1,7 @@
 {
     "pearl": "你就是 CHIH Ke 的老婆呀!。\n![kf31313](https://raw.githubusercontent.com/kf31313/EstherBot/master/img/hannapearl.jpg)\n你一定覺得我在工三小！ %[我比昆凌漂亮](postback:facebook)",
     "我比昆凌漂亮": "我看你是想太多了吧...自己去看看 %[親眼看看](https://www.facebook.com/HannahIFC)",
-    "Start": "您好",
+    "Start": "您好 %[您好](postback:hello)",
     "您好": "您好!非常感謝您撥空與我聯繫。\n![kf31313](https://raw.githubusercontent.com/kf31313/EstherBot/master/img/profilepic.jpg)\n讓我們來多聊聊ChihKe吧! %[請你簡單介紹一下他](postback:intro) %[我想直接與他聯絡](postback:email)",
     "請你簡單介紹一下他": "ChihKe 今年25歲，東吳大學企管系學士。畢業後於替代役訓練中心服役，擔任少尉區隊長一職。退役後至美國加州大學爾灣校區進修 PM 學程。曾於美國加州的 MSC Software 擔任 PM 實習生。回國後與夥伴創業，成立 PawsVilla 寵物保母平台。\n希望加入充滿熱情、活力、創造力的公司，與公司一同努力成長! \n還想了解關於ChihKe的什麼問題呢? %[優點與缺點?](postback:intro)  %[希望的工作內容?](postback:intro) %[工作外的興趣?](postback:intro) %[未來的規劃?](postback:intro) %[為什麼要製作奇哥?](postback:intro) %[我還有其他問題想知道!](postback:intro) %[我想直接與他聯絡](postback:email)",
     "我想直接與他聯絡": "手機: 0972-125616 \nEmail: chihke.fang@gmail.com \n%[寄信相約碰面](mailto:chihke.fang@gmail.com) ",
